@@ -1,0 +1,41 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+venv/
+env/
+ENV/
+
+# Arquivos sensíveis
+.env
+.env.local
+.env.*.local
+
+# Arquivos temporários
+temp/
+tmp/
+*.tmp
+*.log
+
+# Diretórios de saída e logs
+logs/
+output/
+*.xlsx
+*.xls
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
